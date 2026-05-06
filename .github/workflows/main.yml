@@ -20,7 +20,7 @@ jobs:
         run: |
           # لیست فایل‌های تو اینجا قرار می‌گیرند
           items=(
-            "https://download941.mediafire.com/te7tsx08kjlgvLz_FT_fyF6-mmbVf3PbV0D2IysanYhjMs4NSCirC9Wxq_WHTHejIZBixX-wHKdDHbQvIF7c0uE4Vp_WP7Eh7Ol8y0r_2UIBs3fp73U4u3CfoRXL43IJj_zTT1xgwyDBW5utTSlWcXr2O6k-7yDKK0uhL93RLbGcFUxD/hy713cp93a4jquz/DC+Power+-+A+Celebration+001+%282023%29+%28digital%29+%28Son+of+Ultron-Empire%29.cbr"
+            "https://download1585.mediafire.com/chxbxrrq4qrgeB7fn6KpQ1ahs3IokRrBORPlaTbUOHkWVQ1Ef1XO1ZO1wYP8L2qxbxWV7SJ-DukPiRpxbgQ6id6GCzYgTI40s2tg_aXtKK_N6asZ78V3jaI2iRtyZ0CCrFYG8aDu0uQNmoWE_0otvja5IeMJ6gcPghx4VeTJGO_s/zw7s2zx1clce3p0/Spirit+World+001+%282023%29+%28digital%29+%28Son+of+Ultron-Empire%29.cbr"
           )
 
           file_exists() {
