@@ -20,7 +20,7 @@ jobs:
         run: |
           # لیست فایل‌های تو اینجا قرار می‌گیرند
           items=(
-            "https://download1351.mediafire.com/kh4yp0954isgpKEU6lok7ya-O8BROPV9gRlC6zWZFMl1iJQ7X0PulsZIafTqSJu0ZJVFPdfEvQMXfB8x7vWp5JcWoMvyVuHbIAyPAQLXdGULenuPDvb370dCsJG_dbxYjayE_rznlHD5Rh-jJs_I-RZ2vOkZT2mSkHqdx2Pp4mWw9-N_/l39dub4pcbcfo6x/Dawn+of+DC+Primer+Special+Edition+2023+%282023%29+%28digital%29+%28Son+of+Ultron-Empire%29.cbr"
+            "https://download941.mediafire.com/te7tsx08kjlgvLz_FT_fyF6-mmbVf3PbV0D2IysanYhjMs4NSCirC9Wxq_WHTHejIZBixX-wHKdDHbQvIF7c0uE4Vp_WP7Eh7Ol8y0r_2UIBs3fp73U4u3CfoRXL43IJj_zTT1xgwyDBW5utTSlWcXr2O6k-7yDKK0uhL93RLbGcFUxD/hy713cp93a4jquz/DC+Power+-+A+Celebration+001+%282023%29+%28digital%29+%28Son+of+Ultron-Empire%29.cbr"
           )
 
           file_exists() {
