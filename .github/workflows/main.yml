@@ -20,7 +20,7 @@ jobs:
         run: |
           # لیست فایل‌های تو اینجا قرار می‌گیرند
           items=(
-            "https://download1476.mediafire.com/u1ef55397o8gAyH6EXPUaZjxrtfgQjrVG4pPb6DRYgjciGPpAViIYRzD1VnViY9dOxJevaqNz1iK0UAYCLKfaZbElHMTj_HU2H5MpHE7BNM8Xsti8-dL-GgGCwqFxUkiB6-saVjbhWGb0ALWIqTCPfHlc2-YdrtHmyUFADOMW2Br/rps426hf1ex81wz/Spirit+World+002+%282023%29+%28Digital%29+%28Walkabout-DCP%29.cbz"
+            "https://download1320.mediafire.com/gus7oex6w5ggOzQusd6ldR3454dpQKgyyVcV9-JIFwIoVp1B9IiCAu29N44ASia_hJGGcRZ6CZXgJRqUI_eNpmy4NjeV9YwjonSHsS_lDTH63Im4jaxaGobL9t1aB8BhmmFm-fXfGqFeE6HDFE4E71vUZPE0KxUqVV7oDx2brL-5/gde9pkqlw1ikg1r/Spirit+World+003+%282023%29+%28digital%29+%28Son+of+Ultron-Empire%29.cbr"
           )
 
           file_exists() {
