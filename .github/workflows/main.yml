@@ -20,7 +20,7 @@ jobs:
         run: |
           # لیست فایل‌های تو اینجا قرار می‌گیرند
           items=(
-            "https://fs2.comicfiles.ru/2023.11.29/HD-Update/Spirit%20World%20006%20%282023%29%20%28digital%29%20%28Son%20of%20Ultron-Empire%29.cbr"
+            "https://download1649.mediafire.com/juyzwmm1m4pgVuRKKmZWp2Ontxpw1wSm11Fy-ePKCXLPrwn0GZupJ8h63LBRc_rhTYN0b0A2--V63niRB64Rk4R6NjuirN0VjZtVay69zIeejZ2Mf9_fp2NqOiAOk5i7z6oHUQWFY_kDEaiAXMcC8xXG4Jfp6ECjhJtT0hg7G-me/lz5dsvsxnevm7os/Spirit+World+005+%282023%29+%28digital%29+%28Son+of+Ultron-Empire%29.cbr"
           )
 
           file_exists() {
