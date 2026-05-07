@@ -20,7 +20,7 @@ jobs:
         run: |
           # لیست فایل‌های تو اینجا قرار می‌گیرند
           items=(
-            "https://download1655.mediafire.com/w2it4ien7g6gDZ1-kdcyRuT1McopWhEoQsgJsEzQGWNqc0zMWtiNeYCFdE91wOTEFTLI6lsH1E00eIB9d8plMABOLisQMyfdTH5IWNfZyuBuAatyV7RlfmG6MPetEaObHiQ16aYcuLqPSu36X5lE0njKS7845dXCgBqGcWLR10Zk/hb4jnbqymc6vkcs/Spirit+World+004+%282023%29+%28digital%29+%28Son+of+Ultron-Empire%29.cbr"
+            "https://pixeldrain.com/api/file/Z5q8SKUs?download"
           )
 
           file_exists() {
