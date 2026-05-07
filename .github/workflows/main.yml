@@ -20,7 +20,7 @@ jobs:
         run: |
           # لیست فایل‌های تو اینجا قرار می‌گیرند
           items=(
-            "https://pixeldrain.com/api/file/Z5q8SKUs?download"
+            https://getcomics.org/dls/9+QcDlwSWPtn3gaMozazrdW09Hcir+Y1J3JVoF/r7LTCfjnseOlFvCkvAyK01LycEhPkiQmbc8CUrhWuGZHDkc4kUYwA28xexXaqrfaramHQIzTm4XRs+M6u0ZDrr2UEcK0YZ+hjV0fRcNGE+rbckpOjys4g0UOkrNXdQ4VKMV9OHgGfC326EZHng0zH6pDq:xamt7faps8tM0klOwg2KPA=="
           )
 
           file_exists() {
@@ -51,7 +51,7 @@ jobs:
 
             # اگر فایل بزرگتر از 97 مگابایت بود، تیکه‌تیکه‌اش کن
             filesize=$(stat -c%s "$filename")
-            if (( filesize > 97000000 )); then
+            if (( filesize > 45000000 )); then
               echo "فایل بزرگ است، در حال قطعه‌قطعه کردن..."
               split -b 95M "$filename" "$filename.part"
               rm "$filename"
