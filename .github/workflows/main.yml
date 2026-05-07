@@ -51,7 +51,7 @@ jobs:
 
             # اگر فایل بزرگتر از 97 مگابایت بود، تیکه‌تیکه‌اش کن
             filesize=$(stat -c%s "$filename")
-            if (( filesize > 45000000 )); then
+            if (( filesize > 97000000 )); then
               echo "فایل بزرگ است، در حال قطعه‌قطعه کردن..."
               split -b 95M "$filename" "$filename.part"
               rm "$filename"
