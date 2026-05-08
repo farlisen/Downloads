@@ -20,7 +20,8 @@ jobs:
         run: |
           # لیست فایل‌های تو اینجا قرار می‌گیرند
           items=(
-                    "https://pixeldrain.com/api/file/eVVccTtf?download"
+                    "https://download1320.mediafire.com/t4jovwnlb0tgezWGTmVjsNjVB2Ubbg9WoWc4qv_-X6G6rN6p86_ksnfRgRtGgd1SQP1h3i8BXlPJoLBRZSENDKosNZPiABqYjkHo0UUH-bUMvjfwW5O0BTRho8AJKUzZtf2KknMvHhZ0_hKeXo9SiDvGAQ0tRoOru712WC0nMpZdLZQ2/bker6bavykllc5o/Monkey+Prince+011+%282023%29+%28Digital%29+%28Walkabout-DCP%29.cbz"
+                    "https://getcomics.org/dls/18o/KthiXeR1mqR3jD5B6P8qwVcU8AmmJ432TsgS2LZHa0R83sau/VPGfXZl3pJ8wPB4wy1YZazE2EfNP0xTuMu7TFPsFM8CV7LZW8UZOQdfPf2sYqzEYdWVqLw4LGc6CaXtshqLVKgGBhue3GNlpgfyRJEQk7j4MD/UhK+nRqy21rNEMf1/WjLFiEudsbHacmu4GeEgdRVbKWntfnaJhg==:6jRmETuCtaopNJ/u8MKWpQ=="
           )
 
           file_exists() {
