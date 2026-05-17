@@ -20,7 +20,7 @@ jobs:
         run: |
           # لیست فایل‌های تو اینجا قرار می‌گیرند
           items=(
-                    "https://fs1.comicfiles.ru/2023.01.18/Lazarus%20Planet%20-%20Assault%20on%20Krypton%20001%20%282023%29%20%28Webrip%29%20%28The%20Last%20Kryptonian-DCP%29.cbr"
+                    "https://fs1.comicfiles.ru/2023.01.18/Monkey%20Prince%20010%20%282023%29%20%28Digital%29%20%28Walkabout-DCP%29.cbz"
           )
 
           file_exists() {
